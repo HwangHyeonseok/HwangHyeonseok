@@ -24,7 +24,7 @@
 
 |프로그램|프로젝트명|레포지토리|수상|
 |----------|------------|------|------|
-|KB IT's Your Life 최종 프로젝트|부둥이들|<a href="https://github.com/ITYL-Bbbbick"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/budungs-5354FF?style=flat-square&logoColor=smokewhite"/></a>|🏆 최우수상|
+|KB IT's Your Life 최종 프로젝트|부둥이들|<a href="https://github.com/HwangHyeonseok/chogodzip-front"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/budungs-5354FF?style=flat-square&logoColor=smokewhite"/></a>|🏆 최우수상|
 
 <br>
 
